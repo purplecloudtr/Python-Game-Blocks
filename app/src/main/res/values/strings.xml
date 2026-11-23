@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Python Yol Aç</string>
+    <string name="run_code">Kodu çalıştır</string>
+    <string name="reset_level">Bölümü sıfırla</string>
+    <string name="hint">İpucu</string>
+    <string name="next_level">Sonraki bölüm</string>
+    <string name="stop_execution">Çalıştırmayı durdur</string>
+    <string name="code_editor_label">Python kod alanı</string>
+    <string name="board_text_label">Oyun tahtasının metin özeti</string>
+    <string name="feedback_label">Çalıştırma sonucu ve geri bildirim</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Python Yol Aç",
+  "description": "Python kodu yazarak blokları hareket ettirip hedef bloğu çıkışa ulaştıran başlangıç düzeyi Türkçe Python bulmaca uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
